@@ -1,0 +1,17 @@
+<svg height="26" width="101" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0.5,0.5)">
+    <g>
+        <rect fill="#eff3ff" height="25" id="svg_9" stroke="#000" width="25" x="0" y="0"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="8" y="17">1</text>
+            
+        <rect fill="#bdd7e7" height="25" id="svg_10" stroke="#000" width="25" x="25" y="0"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="33" y="17">2</text>
+            
+        <rect fill="#6baed6" height="25" id="svg_11" stroke="#000" width="25" x="50" y="0"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="58" y="17">3</text>
+            
+        <rect fill="#3182bd" height="25" id="svg_12" stroke="#000" width="25" x="75" y="0"/>
+        <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="83" y="17">4</text>
+    </g>
+ </g>
+</svg>

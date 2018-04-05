@@ -1,0 +1,70 @@
+<svg height="46" width="521" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0.5,0.5)">
+<g>
+        <rect fill="#eff3ff" height="25" id="svg_1" stroke="#000" width="25" x="0" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="8" y="27">1</text>
+            
+        <rect fill="#eff3ff" height="25" id="svg_2" stroke="#000" width="25" x="25" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="33" y="27">1</text>
+            
+        <rect fill="#eff3ff" height="25" id="svg_3" stroke="#000" width="25" x="50" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="58" y="27">1</text>
+
+        <rect fill="#eff3ff" height="25" id="svg_4" stroke="#000" width="25" x="75" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="83" y="27">1</text>
+
+        <rect fill="#eff3ff" height="25" id="svg_5" stroke="#000" width="25" x="100" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="108" y="27">1</text>
+
+        <rect fill="#eff3ff" height="25" id="svg_6" stroke="#000" width="25" x="125" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="133" y="27">1</text>
+
+        <rect fill="#eff3ff" height="25" id="svg_7" stroke="#000" width="25" x="150" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="158" y="27">1</text>
+
+        <rect fill="#eff3ff" height="25" id="svg_8" stroke="#000" width="25" x="175" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="183" y="27">1</text>
+
+    </g>
+    <line fill="none" fill-opacity="null" id="svg_4" stroke="#000" stroke-dasharray="5,5" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" x1="205" x2="205" y1="0" y2="45"/>
+    <g>
+        <rect fill="#eff3ff" height="25" id="svg_9" stroke="#000" width="25" x="210" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="218" y="27">1</text>
+            
+        <rect fill="#bdd7e7" height="25" id="svg_10" stroke="#000" width="25" x="235" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="243" y="27">2</text>
+            
+        <rect fill="#6baed6" height="25" id="svg_11" stroke="#000" width="25" x="260" y="10"/>
+        <text fill="#000" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="268" y="27">3</text>
+            
+        <rect fill="#3182bd" height="25" id="svg_12" stroke="#000" width="25" x="285" y="10"/>
+        <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="293" y="27">4</text>
+    </g>
+    <line fill="none" fill-opacity="null" id="svg_4" stroke="#000" stroke-dasharray="5,5" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" x1="315" x2="315" y1="0" y2="45"/>
+    <g>
+        <rect fill="#3182bd" height="25" id="svg_13" stroke="#000" width="25" x="320" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="328" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_14" stroke="#000" width="25" x="345" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="353" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_15" stroke="#000" width="25" x="370" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="378" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_16" stroke="#000" width="25" x="395" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="403" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_17" stroke="#000" width="25" x="420" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="428" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_18" stroke="#000" width="25" x="445" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="453" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_19" stroke="#000" width="25" x="470" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="478" y="27">4</text>
+
+        <rect fill="#3182bd" height="25" id="svg_20" stroke="#000" width="25" x="495" y="10"/>
+            <text fill="#fff" font-family="Monaco, 'MonacoRegular', 'Courier New', monospace " font-size="16" font-weight="bolder" x="503" y="27">4</text>
+    </g>
+ </g>
+</svg>
